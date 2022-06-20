@@ -1,6 +1,6 @@
 # BellyButtonDiversity
 Dashboard Exploring Belly Button Diversity
-Visit the webpage https://tinyurl.com/3w3rwwkk
+Visit the webpage https://tiny.one/2664tyza
 
 
 This project is one of many that endevours to create an interactive dashboard around the belly button biodiversity project. The orginal project may be found here:http://robdunnlab.com/projects/belly-button-biodiversity/. A breif discription from the website: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives. If you are interested in additional information please vist their site. Our project was created using JavaScript and Ploty, see additional information at the bottom of this readme. 
