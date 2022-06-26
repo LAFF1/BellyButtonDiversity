@@ -3,7 +3,7 @@ Dashboard Exploring Belly Button Diversity
 Visit the webpage https://tiny.one/2664tyza
 
 
-This project is one of many that endevours to create an interactive dashboard around the belly button biodiversity project. The orginal project may be found here:http://robdunnlab.com/projects/belly-button-biodiversity/. A breif discription from the website: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives. If you are interested in additional information please vist their site. Our project was created using JavaScript and Ploty, see additional information at the bottom of this readme. 
+This project is one of many that endeavors to create an interactive dashboard around the belly button biodiversity project. The original project may be found here: http://robdunnlab.com/projects/belly-button-biodiversity/. A brief description from the website: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives. If you are interested in additional information please visit their site. Our project was created using JavaScript and Ploty, see additional information at the bottom of this readme.
 
 ## Dashboard
 
@@ -19,7 +19,7 @@ Dropdown for interactive selection of test subjects from the study. Once a new t
   
 ![Selector](https://user-images.githubusercontent.com/98897041/174480728-9ee1d763-2bbc-4be0-ad44-006bc6f11484.PNG)![Info946](https://user-images.githubusercontent.com/98897041/174480777-60a09c72-55f7-412b-aaac-57f8f20c8949.PNG)![TopTen946](https://user-images.githubusercontent.com/98897041/174480834-62265e62-e3f3-4378-918e-e0f1841cf621.PNG)
 
-In addition to the demographic card and top 10 bacteria chart shown above there is also a gauge graphic demonstrating the washing habits of each test subject, and a bubble chart showing bacteria found and their volumn. Here are the gauge and bubble charts for subject 946. 
+In addition to the demographic card and top 10 bacteria chart shown above there is also a gauge graphic demonstrating the washing habits of each test subject, and a bubble chart showing bacteria found and their volume. Here are the gauge and bubble charts for subject 946. 
 
 ![Gauge946](https://user-images.githubusercontent.com/98897041/174481031-12be8162-6691-42e9-9e71-7a91ebcbf622.PNG)![Bubble946](https://user-images.githubusercontent.com/98897041/174481162-e58ad4b3-95c2-4012-a752-6ca973767638.PNG)
 
